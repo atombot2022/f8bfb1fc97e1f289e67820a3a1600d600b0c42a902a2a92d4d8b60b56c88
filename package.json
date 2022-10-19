@@ -1,0 +1,12 @@
+{
+      "name": "f8bfb1fc97e1f289e67820a3a1600d600b0c42a902a2a92d4d8b60b56c88",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "HUAY เว็บหวยออนไลน์ อันดับหนึ่ง นั้น เป็นหุ้นชนิดหนึ่ง",
+      "repository": "https://github.com/atombot2022/f8bfb1fc97e1f289e67820a3a1600d600b0c42a902a2a92d4d8b60b56c88",
+      "keywords": 'ไม่ผ่านเอเย่นต์,
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
